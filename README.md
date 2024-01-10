@@ -5,7 +5,7 @@ Welcome Att Cosme Júnior👨🏽‍💻
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/cosme.dev/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5562981741403)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://api.whatsapp.com/send?phone=+5562981741403)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/voacosmejr)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmedev&show_icons=true&theme=dracula)
 
 
